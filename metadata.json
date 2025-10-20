@@ -1,0 +1,5 @@
+{
+  "name": "AI QA Assistant for Streamlit",
+  "description": "An AI-powered tool that acts as a virtual QA tester to analyze Streamlit applications. Provide a URL, a description, and a screenshot to receive a detailed report on potential UI/UX, functionality, performance, and accessibility issues.",
+  "requestFramePermissions": []
+}
